@@ -171,7 +171,7 @@ function index() {
               <div className="flex">
                   <div className="rounded-lg bg-bitCoin ml-44 mt-12">
                       <div className="">
-                          <img src="/bitCoin.svg" className=" bg-yellow-300 max-w-lg ml-24 w-12 h-12 mt-3 mr-4 rounded-full"/>
+                          <img src="/bitcoin.svg" className=" bg-yellow-300 max-w-lg ml-24 w-12 h-12 mt-3 mr-4 rounded-full"/>
                       </div>
                       <div className="flex ml-20 mt-5 mr-4">
                           <p className="text-white font-bold text-xl">Bitcoin</p>
@@ -203,7 +203,7 @@ function index() {
 
                   <div className="rounded-lg bg-white ml-12 mt-12">
                       <div className="mt-3 ml-4">
-                          <img src="/liteCoin.svg" className=" w-12 ml-20"/>
+                          <img src="/litecoin.svg" className=" w-12 ml-20"/>
                       </div>
                       
                       <div className="flex ml-20 mt-6 mr-4">
